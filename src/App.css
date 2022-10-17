@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.cartLogo {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.cartDiv{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+body {
+    margin: 25px;
+    background-color: rgba(140, 157, 140, 0.706);
+}
+
+.pp {
+    text-align: center;
+}
+
+input {
+    color:rgb(0, 0, 0);
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
