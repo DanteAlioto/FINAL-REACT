@@ -5,7 +5,7 @@ import ItemCart from '../ItemCart';
 import { useState } from 'react';
 import { addDoc, collection, getFirestore } from 'firebase/firestore';
 
-import Swal from 'sweetalert2'
+import Swal from 'sweetalert'
 
 
 
